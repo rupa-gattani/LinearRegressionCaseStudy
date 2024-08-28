@@ -21,16 +21,16 @@ To recover and thrive in the post-pandemic era, BoomBikes aims to understand the
 
 They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
-* **Which variables are significant in predicting the demand for shared bikes?
-* **How well those variables describe the bike demands?
+* Which variables are significant in predicting the demand for shared bikes?
+* How well those variables describe the bike demands?
 
 ### Business Problem:
 The primary business problem is to accurately predict bike sharing demand in the US market. By understanding the factors that drive demand, BoomBikes can:
 
-* **Optimize bike distribution and availability.
-* **Improve pricing strategies.
-* **Enhance marketing campaigns.
-* **Make informed business decisions for expansion and growth.
+* Optimize bike distribution and availability.
+* Improve pricing strategies.
+* Enhance marketing campaigns.
+* Make informed business decisions for expansion and growth.
 
 ### Dataset
 The dataset is the csv file provided which has data for the years 2018 to 2019. 
